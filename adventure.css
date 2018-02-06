@@ -3,22 +3,21 @@ h1 {
   text-align: center;
 }
 
-#background {
-  background-color: black;
+h2 {
+  font-family: 'Aclonica', sans-serif;
+  text-align: center;
 }
-
 body {
     background-image: url("Glow-worms-Gold-Coast-1.jpg");
-    background-repeat: repeat-x;
-    background-position: auto;
-    margin: auto;
+    background-repeat: no-repeat;
+    background-position: right top;
     background-attachment: fixed;
 }
 
 .header {
   background-color: darkgrey;
+  padding: 15px;
 }
-
 p.first {
   color: crimson;
   font-size: 2rem;
@@ -31,4 +30,8 @@ p {
   font-family: 'Londrina Shadow', cursive;
   font-size: 1.5rem;
   text-align: right;
+}
+
+div.container{
+  background-color: black;
 }
