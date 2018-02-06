@@ -2,3 +2,21 @@ h1 {
   font-family: 'Aclonica', sans-serif;
   text-align: center;
 }
+
+body {
+  background-color: lemonchiffon;
+}
+
+p.first {
+  color: crimson;
+  font-size: 2rem;
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+}
+
+p {
+  color: crimson;
+  font-family: 'Londrina Shadow', cursive;
+  font-size: 1.5rem;
+  text-align: right;
+}

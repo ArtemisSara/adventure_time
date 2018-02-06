@@ -1,14 +1,14 @@
 // Define the size of the game play area
-var maxX = 6
-var maxY = 6
+var maxX = 2
+var maxY = 2
 
 // User starts at x0, y0 (bottom left of board)
 var userX = 0
 var userY = 0
 
 // Hide the treasure, also with x y values
-var treasureX = 4
-var treasureY = 2
+var treasureX = 2
+var treasureY = 1
 
 // Flag that controls loop 
 var treasureFound = false 
@@ -90,3 +90,8 @@ while(!treasureFound){
   }
 }
 
+  // attempting audio
+var aud = new Audio();
+aud.src = 'water-drops-daniel_simon.wav';
+
+aud.play();
