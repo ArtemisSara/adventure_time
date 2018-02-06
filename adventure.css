@@ -3,8 +3,20 @@ h1 {
   text-align: center;
 }
 
+#background {
+  background-color: black;
+}
+
 body {
-  background-color: lemonchiffon;
+    background-image: url("Glow-worms-Gold-Coast-1.jpg");
+    background-repeat: repeat-x;
+    background-position: auto;
+    margin: auto;
+    background-attachment: fixed;
+}
+
+.header {
+  background-color: darkgrey;
 }
 
 p.first {
