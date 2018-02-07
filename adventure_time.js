@@ -1,4 +1,4 @@
-// Define the size of the game play area
+function myFunction() {// Define the size of the game play area
 var maxX = 6
 var maxY = 6
 
@@ -95,3 +95,4 @@ var aud = new Audio();
 aud.src = 'water-drops-daniel_simon.wav';
 
 aud.play();
+}
