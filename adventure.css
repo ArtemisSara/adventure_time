@@ -26,34 +26,34 @@ nav {
 header {
   background-color: black;
   padding-top: 20px;
-  
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: darkgrey;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkgrey;
   }
+
 li {
-    float: left;
+  float: left;
   }
 
 li a {
-    display: block;
-    color: lightgoldenrodyellow;
-    text-align: center;
-    padding: 14px 16px;
-    font-family: 'Aclonica', sans-serif;
+  display: block;
+  color: lightgoldenrodyellow;
+  text-align: center;
+  padding: 14px 16px;
+  font-family: 'Aclonica', sans-serif;
 }
 
 li a:hover:not(.active) {
-    background-color: gold;
+  background-color: gold;
 }
 
 .active {
-    background-color: darkgrey;
+  background-color: darkgrey;
 }
 
 section {
@@ -78,7 +78,6 @@ aside {
   background-color: darkgrey;
   justify-content: space-around;
   padding: 10px;
- 
 }
 
 footer {

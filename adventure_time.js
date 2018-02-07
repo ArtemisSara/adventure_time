@@ -7,8 +7,8 @@ var userX = 0
 var userY = 0
 
 // Hide the treasure, also with x y values
-var treasureX = 1
-var treasureY = 0
+var treasureX = 4
+var treasureY = 3
 
 // Flag that controls loop 
 var treasureFound = false 
