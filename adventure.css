@@ -56,6 +56,9 @@ li a:hover:not(.active) {
   background-color: darkgrey;
 }
 
+body {
+  background-color: black;
+}
 section {
   padding: 0 .75rem;
 }
